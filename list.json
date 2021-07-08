@@ -1,17 +1,10 @@
 {
   "version": 1,
   "whitelist": [
-    "coinbase.com",
-    "trezor.io",
-    "ledger.com",
     "onekey.so",
     "token.im",
     "tokenpocket.pro",
-    "bitpie.com",
-    "binance.com",
-    "huobi.com",
-    "okex.com",
-    "bitfinex.com"
+    "bitpie.com"
   ],
   "blacklist": [
     "eleven.finance",
@@ -12582,6 +12575,7 @@
     "polkastarter.world",
     "polkastarter.ltd",
     "polkaslarter.com",
-    "polkastarter.cn.com"
+    "polkastarter.cn.com",
+    
   ]
 }
